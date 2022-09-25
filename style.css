@@ -1,0 +1,40 @@
+table {
+    background-color: rgb(199, 160, 223);
+    width: 100%;
+    text-align: center;
+}
+
+body {
+    background-color: #c573bd9c;
+}
+
+.first {
+    color: rgb(140, 0, 255);
+}
+
+main {
+    color: rgb(165, 11, 170);
+}
+
+table,
+th,
+td {
+    border: 1px solid;
+}
+
+td {
+    padding: 5px;
+}
+
+tr:hover {
+    background-color: coral;
+}
+
+img {
+    border: 1px solid rgb(157, 12, 12);
+    border-radius: 4px;
+    padding: 5px;
+    width: 365px;
+}
+
+
