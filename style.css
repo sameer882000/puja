@@ -17,13 +17,14 @@ main {
 }
 
 table,
-th,
-td {
+th
+ {
     border: 1px solid;
 }
 
 td {
     padding: 5px;
+    border: 1px solid;
 }
 
 tr:hover {
@@ -31,10 +32,16 @@ tr:hover {
 }
 
 img {
-    border: 1px solid rgb(157, 12, 12);
+    border: 1px solid rgb(76, 5, 5);
     border-radius: 4px;
     padding: 5px;
     width: 365px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#center {
+    text-align: center;
 }
 
 
